@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Marmo"><img src="https://api.daily.dev/devcards/77902d3537334e0d95defc3019516051.png?r=cmu" width="400" alt="Marcin's Dev Card"/></a>
 <!--
 **MarmoPL/MarmoPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
